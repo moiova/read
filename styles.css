@@ -1,10 +1,15 @@
 body {
   background-color: white;
-  text-align: center;
+  text-align: left;
   color: blue;
   font-family: Arial, Helvetica, sans-serif;
+  padding-left: 250px;
+  padding-right: 250px;
 }
 
+h2 {
+  text-align: left;
+}
 a {
   display:inline-block;
   padding-bottom: 50px;
